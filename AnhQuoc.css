@@ -3,6 +3,7 @@
   /* margin : create space around elements, outside of any defined borders */
   padding: 0;
   /* padding : đường viền. */
+  font-family: 'Times New Roman', Times, serif;
 }
 
 body {
@@ -15,6 +16,9 @@ body {
   clear: both;
   /*ngăn chặn sự chiếm vùng không gian của body */
 }
+
+
+
 
 #page-wrap {
   width: 800px;
@@ -51,20 +55,20 @@ h2 {
 }
 
 h2 span {
-  position: : relative;
+  position:  relative;
   font-style: italic;
   font-family: Georgia;
   font-size: 15px;
   color: #999;
 }
 
-#cer{
+/* #cer{
   position: : relative;
   font-style: italic;
   font-family: Georgia;
   font-size: 15px;
   color: #999;
-}
+} */
 
 a {
   text-decoration: none;
